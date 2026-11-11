@@ -1,0 +1,12 @@
+D:\VISUAL STUDIO\проекты\arcr\bin\Debug\net8.0-windows\scripts\shut.bat=shut
+explorer "https://www.youtube.com/"=youtube
+cmd.exe=cmd
+calc.exe=calculator
+explorer.exe "D:\"=explorer
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe=studio
+explorer "D:\FLASH\201602A0\102013f5\spmo\F\Новый проект план D.mp4"=video
+shutdown /r /f /t 0=reboot
+ARSTPanel.exe /h=sleep
+ARSTPanel.exe=panel
+await 10 fstbt @echo off;taskkill /im await.exe /f;call vrtler.bat=timeout virtual
+explorer "https://copilot.microsoft.com/"=copilot
